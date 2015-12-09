@@ -1,5 +1,5 @@
 {
-    "name": "is-smcleod/oauth2-basecamp",
+    "name": "smcleod/oauth2-basecamp",
     "description": "Basecamp OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "authors": [
         {
