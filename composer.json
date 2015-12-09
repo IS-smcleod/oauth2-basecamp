@@ -1,5 +1,6 @@
 {
     "name": "smcleod/oauth2-basecamp",
+    "version": "1.0.0",
     "description": "Basecamp OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "authors": [
         {
@@ -34,5 +35,9 @@
         "psr-4": {
             "League\\OAuth2\\Client\\Test\\": "tests/src/"
         }
+    },
+    "dist": {
+      "type": "git",
+      "url": "gogs@aetna.mind.net:smcleod/oauth2-basecamp.git"
     }
 }
