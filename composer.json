@@ -1,7 +1,9 @@
 {
     "name": "smcleod/oauth2-basecamp",
-    "version": "master",
+    "type": "oauth2-provider",
+    "version": "1.0.0",
     "description": "Basecamp OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
+    "license": "MIT",
     "authors": [
         {
             "name": "Scott Mcleod",
